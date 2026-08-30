@@ -1,0 +1,4 @@
+# Godot / SyncService 生成物
+.godot/
+*.csproj
+*.asmdef.uid
